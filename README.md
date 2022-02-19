@@ -46,3 +46,4 @@ Compatability:
 - Figure out how to force the keyboard to be on top at all times (unless minimized)
 - Add option to configure various keys
 - Make a demo or something and put it in the README
+- Make a windows installer and put out github releases
