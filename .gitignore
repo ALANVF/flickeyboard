@@ -1,0 +1,8 @@
+.vs
+
+[flickyboard]
+bin
+obj
+
+# only existed for debugging
+*.xaml
